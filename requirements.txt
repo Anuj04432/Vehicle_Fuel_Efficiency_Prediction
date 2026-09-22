@@ -1,0 +1,24 @@
+# Core Data Processing & Numerical Computing
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning Algorithms
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Model Interpretability & Explainability
+shap
+
+# Model Persistence
+joblib
+
+# Exploration & Interactive App
+ipykernel
+streamlit
