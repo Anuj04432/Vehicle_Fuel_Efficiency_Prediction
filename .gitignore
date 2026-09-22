@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =============================================================================
+# Project Specific Ignores: Datasets, Trained Model Binaries, Reports & Slides
+# =============================================================================
+# Raw and processed datasets
+data/
+
+# Heavy serialized model binaries (>80MB)
+models/
+
+# Academic project reports, presentations, and documents
+*.pdf
+*.pptx
+reports/
+extracted_imgs/
+
+# Report and presentation generation scripts
+src/generate_report.py
+src/create_presentation.py
+
